@@ -62,11 +62,11 @@ Inform the flag ``--nomigrations`` when running your tests:
 
     $ python manage.py test --nomigrations
 
-Or use the alias ``-n``:
+Or use the alias ``-nm``:
 
 .. code-block:: bash
 
-    $ python manage.py test -n
+    $ python manage.py test -nm
 
 Inspiration
 -----------
